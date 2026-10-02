@@ -1,4 +1,4 @@
-# IMPLEMENTATION_PLAN.md — YNGO-CMS / YemenNGO-CMS
+﻿# IMPLEMENTATION_PLAN.md — YNGO-CMS / YemenNGO-CMS
 
 > **Status:** Draft — requires ADR-001..ADR-005 + Q-01..Q-06 approval before Phase 0 may start.
 > **Owner:** Lead Architect | **Last Updated:** 2026-10-02

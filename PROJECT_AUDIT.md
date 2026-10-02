@@ -1,4 +1,4 @@
-# PROJECT AUDIT — YNGO-CMS / YemenNGO-CMS
+﻿# PROJECT AUDIT — YNGO-CMS / YemenNGO-CMS
 
 > **Date:** 2026-10-02
 > **Auditor:** Principal Architect (Automated Discovery)
